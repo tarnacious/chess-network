@@ -1,0 +1,11 @@
+White
+BR BN BB BQ BK BB BN BR
+BP BP BP BP BP BP BP BP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+WP WP WP WP WP WP WP WP
+WR WN WB WQ WK WB WN WR
+
+WP a2:a3 WP b2:b3 WP c2:c3 WP d2:d3 WP e2:e3 WP f2:f3 WP g2:g3 WP h2:h3 WN b1:c3 WN b1:a3 WN g1:h3 WN g1:f3WP a2:a3 WP b2:b3 WP c2:c3 WP d2:d3 WP e2:e3 WP f2:f3 WP g2:g3 WP h2:h3 WN b1:c3 WN b1:a3 WN g1:h3 WN g1:f3

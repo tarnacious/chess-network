@@ -1,0 +1,8 @@
+deps/
+ebin/
+rel/erl_crash.dump
+rel/erws/
+log/
+erl_crash.dump
+rebar
+priv/node_modules/
